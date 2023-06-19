@@ -1,3 +1,4 @@
 # hotel-booking-demand
 Permintaan pemesanan hotel adalah konsep yang mengacu pada permintaan atau kebutuhan konsumen untuk memesan kamar hotel pada suatu waktu tertentu. Dalam analisis data hotel booking demand, informasi dan pola-pola dari data historis atau data yang dikumpulkan dapat digunakan untuk memahami tren dan perilaku konsumen terkait permintaan pemesanan hotel.
+
 Untuk membangun sebuah model klasifikasi yang dapat memprediksi apakah pemesanan hotel tertentu akan dibatalkan atau tidak berdasarkan fitur-fitur tersebut. Model ini akan memberikan wawasan yang berharga kepada manajemen hotel untuk mengidentifikasi potensi pembatalan sebelumnya dan mengambil langkah-langkah pencegahan yang tepat. Dengan menggunakan model ini, manajemen hotel dapat mengoptimalkan strategi penjualan, merencanakan alokasi sumber daya dengan lebih efisien, dan meningkatkan pengalaman pelanggan dengan mengurangi ketidakpastian terkait pemesanan.
